@@ -1,4 +1,14 @@
-### Hi there 👋
+Hola, soy Juliana Ruiz 👋
+¡Bienvenido a mi perfil de GitHub! Aquí encontrarás proyectos interesantes y colaboraciones en el mundo de la tecnología. ¡Gracias por visitar mi perfil!
+
+🚀 Conoceme
+Soy un apasionado desarrollador de software con experiencia en diversos lenguajes de programación y tecnologías.
+
+🛠 Habilidades
+HTML5 CSS JavaScript React  MySQL Git
+
+🔗 Conectemos
+Gmail WhatsApp LinkedIn### Hi there 👋
 
 <!--
 **julianaruizp06/julianaruizp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
